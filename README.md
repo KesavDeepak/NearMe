@@ -63,6 +63,6 @@ Register Number :212223230104
 ![alt text](apollo.png)
 ![alt text](<sree sastha.png>)
 ![alt text](lakeview.png)
-
+![alt text](dmi.png)
 ## RESULT
 The program for implementing image maps using HTML is executed successfully.
